@@ -9,7 +9,7 @@ const comprarButtons =
 // const tarjetaShopping = document.getElementsByClassName("tarjeta")
 const divisa = '$';
 let text;
-const URL = 'http://localhost:3000/';
+const URL = 'https://bssale-server.herokuapp.com/';
 
 const searchInput = document.querySelector('#form12');
 searchInput.addEventListener('keyup', (e) => {
